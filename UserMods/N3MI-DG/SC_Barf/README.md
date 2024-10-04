@@ -43,3 +43,6 @@ Note. there is an alternative RGB led componant that can be selected if the `SK6
 
 ### DY-S1515065/RGBC/6805-5T
 <img src="images/corrcet_placement_TONYU.png" width=800>
+
+#### Disclaimer
+This project is supplied as is. I am not responsable for any mishaps that may occur from the PCB ordering and manufacturing process. If you wish to manufacture and or sell these PCBs you may do so, but I do not, and will not endorse any such sales.
